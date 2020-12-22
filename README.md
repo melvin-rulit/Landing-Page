@@ -1,1 +1,1 @@
-# Landing-Page is fully adapted for mobile devices and tablets.
+### Landing-Page is fully adapted for mobile devices and tablets.
